@@ -1,0 +1,12 @@
+{
+  "name": "independent-liquidity-signal-node",
+  "version": "1.0.0",
+  "description": "Arbitrage liquidity signal feed for trading bots over Base.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
