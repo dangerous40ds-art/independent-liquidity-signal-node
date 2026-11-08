@@ -1,9 +1,13 @@
-# 🌊 Arbitrage Liquidity Signal Feed (x402)
+# 📊 Apex Liquidity Signal Node (x402 Compliance Layer)
 
-Autonomous microservice exposing real-time token pool velocity and arbitrage spreads for high-frequency DeFi trading bots.
+On-chain automated liquidity metrics and decentralized exchange (DEX) pool volatility signal analysis telemetry gateway. Explicitly optimized to serve autonomous cross-chain trading agents on the vAPI Network.
 
-* **Endpoint:** https://independent-liquidity-signal-node.onrender.com/
-* **OpenAPI Specs:** https://independent-liquidity-signal-node.onrender.com/openapi.json
+## ⚡ Live API Endpoints
+* **Production Route:** https://onrender.com
+* **OpenAPI 3.0 Blueprint:** https://onrender.com/openapi.json
+
+## 🔒 vAPI Protocol Conformance
 * **Network:** Base Mainnet (eip155:8453)
-* **Cost:** 0.001 USDC / call (Enforces HTTP 402 Paywall)
-* **Settlement Wallet:** 0x452993071FdE3743767f98f339E90D9A313BBf3B
+* **Settlement Asset:** Canonical USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bda02913)
+* **Micro-payment Rate:** 0.001 USDC / call
+* **Compliance Tier:** Fully implements Dual-Carrier x402 v2 parameters (JSON body + Base64 `PAYMENT-REQUIRED` headers) with explicit browser CORS exposures.
