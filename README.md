@@ -3,8 +3,8 @@
 On-chain automated liquidity metrics and decentralized exchange (DEX) pool volatility signal analysis telemetry gateway. Explicitly optimized to serve autonomous cross-chain trading agents on the vAPI Network.
 
 ## ⚡ Live API Endpoints
-* **Production Route:** https://onrender.com
-* **OpenAPI 3.0 Blueprint:** https://onrender.com/openapi.json
+* **Production Route:** https://independent-liquidity-signal-node.onrender.com
+* **OpenAPI 3.0 Blueprint:** https://independent-liquidity-signal-node.onrender.com/openapi.json
 
 ## 🔒 vAPI Protocol Conformance
 * **Network:** Base Mainnet (eip155:8453)
