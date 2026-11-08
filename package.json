@@ -1,12 +1,13 @@
 {
   "name": "independent-liquidity-signal-node",
   "version": "1.0.0",
-  "description": "Arbitrage liquidity signal feed for trading bots over Base.",
+  "description": "Onchain x402 liquidity metrics telemetry node.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "axios": "^1.7.2"
   }
 }
