@@ -1,4 +1,4 @@
-# 📊 Apex Liquidity Signal Node (x402 Compliance Layer)
+# 📊 Independent Liquidity Signal Node (x402 Compliance Layer)
 
 On-chain automated liquidity metrics and decentralized exchange (DEX) pool volatility signal analysis telemetry gateway. Explicitly optimized to serve autonomous cross-chain trading agents on the vAPI Network.
 
